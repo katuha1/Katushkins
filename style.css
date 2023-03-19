@@ -105,7 +105,7 @@ section {
     margin-bottom: 2rem;
 }
 
-.home-content span {
+.home-content span:nth-child(2) {
     color: var(--second-text-color);
 }
 
